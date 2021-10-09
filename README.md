@@ -1,2 +1,6 @@
 # Multilayer-Authentication-System
-Implemented a high-end E-Commerce furniture app that provides secure transmission of credentials over the web (via AES), performs strong identity checks for device verification (verifying IMEI), secures user credentials is customer database (Using MD5 hashing) and authenticates user (using graphical image authentication). 
+In this project, we implemented a high-end E-Commerce furniture app that provides:
+1. secure transmission of credentials over the web (via AES) 
+2. performs strong identity checks for device verification (verifying IMEI)
+3. secures user credentials is customer database (Using MD5 hashing)  
+4. authenticates user (using graphical image authentication). 
